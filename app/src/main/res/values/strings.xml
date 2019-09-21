@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nama_app">Meriliana Candra Devi 1705551022</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">DataMahasiswa</string>
+    <string name="nama_mahasiswa">Nama Barang</string>
+    <string name="nim_mahasiswa">Harga Barang</string>
+    <string name="jurusan_mahasiswa">Merk Barang</string>
+    <string name="tombol_submit">Submit</string>
+    <string name="tombol_tambah">Tambah Data</string>
+    <string name="tombol_lihat">Lihat Data</string>
+    <string name="title_view">Data Mahasiswa</string>
+</resources>
